@@ -20,7 +20,7 @@ and an approximate value of the tokens you will be charged with. For prices by m
 
 2. fine_tuned_model_analysis.ipynb will help you evaluate how well your Fine-Tuned model was trained, remember to train it and to validate it with much valuable data as possible.
 This file will give you a train_loss and train_accuracy as primary data, and are pretty self explanatory on what they do. In addition, you can play with some parameters of
-the model you created as if it was the OpenAI playground. You'll see an example message on this section to help you use it, although i recommend to use the real thing
+the model you created as if it was the OpenAI playground. You'll see an example message on this section to help you use it, although I recommend to use the real thing
 [OpenAI Playground](https://platform.openai.com/playground/chat?models=gpt-4o). If you are not satisfied with how your model responds don't blame yourself, as collecting valuable data
 is a hard task, and it happened to me quite a few times ;).
 
